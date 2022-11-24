@@ -1,0 +1,2 @@
+(this["webpackJsonpnft-gaming"]=this["webpackJsonpnft-gaming"]||[]).push([[9],{856:function(n,e,t){"use strict";t.r(e);var s=t(1),c=t(81),a=t(7),i=Object(s.lazy)((function(){return Promise.all([t.e(5),t.e(8)]).then(t.bind(null,815))}));e.default=function(){return Object(a.jsx)(s.Suspense,{fallback:Object(a.jsx)(c.a,{}),children:Object(a.jsx)(i,{})})}}}]);
+//# sourceMappingURL=9.80a7bc5b.chunk.js.map
